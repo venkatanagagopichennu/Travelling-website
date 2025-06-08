@@ -1,1 +1,6 @@
 # Travelling-website
+This is a purely frontend travelling website developed using only HTML and CSS. The website is designed to provide a visually appealing and informative platform where users can explore various travel destinations, view transportation facilities, estimate travel costs, and find contact information. The site also includes a dedicated section for founder details, giving it a personal and professional touch.
+
+Each travel location is beautifully presented with images, location names, and estimated costs, making it easier for visitors to plan their trips. The transportation section highlights available travel options such as buses and trains. A fully styled contact form is also included, which allows users to simulate sending queries or feedback—though it’s not connected to any backend service, it’s fully functional in design and layout.
+
+This project uses only HTML5 for structure and CSS3 for styling and animations. The design is responsive, clean, and focused on providing a smooth user experience. Even without JavaScript or backend logic, the site delivers a complete and polished frontend experience that can be showcased as a portfolio project or used as a base for further development.
